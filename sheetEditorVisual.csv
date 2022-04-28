@@ -1,0 +1,12 @@
+stringToCheck,itemToCheck,fieldToEdit1,fieldToEdit2,fieldToEdit3,fieldToEdit4,fieldToEdit5
+first string to check for in column to edit additional columns,"thing1; thing2; thing3; thing4; thing5; thing6; thing7; widget1; widget2, widget3, justOneThing",,,,,
+first string to check for in column to edit additional columns,thing1; thing2; thing3; thing4; thing5; thing6; thing7,,,,,
+first string to check for in column to edit additional columns,widget1; widget2; widget3,,,,,
+first string to check for in column to edit additional columns,justOneThing,,,,,
+second string to check for in column to edit additional columns,justOneThing,,,,,
+third string to check for in column to edit additional columns,widget1; widget2; widget3,,,,,
+third string to check for in column to edit additional columns,justOneThing,,,,,
+fourth string to check for in column to edit additional columns,"thing1; thing2; thing3; thing4; thing5; thing6; thing7; widget1; widget2, widget3, justOneThing",,,,,
+fourth string to check for in column to edit additional columns,thing1; thing2; thing3; thing4; thing5; thing6; thing7,,,,,
+fourth string to check for in column to edit additional columns,widget1; widget2; widget3,,,,,
+fourth string to check for in column to edit additional columns,justOneThing,,,,,
